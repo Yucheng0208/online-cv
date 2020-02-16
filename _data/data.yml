@@ -7,19 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 張育丞(Ryan Chang)
+    tagline: Student and Edier #compiler
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: a97496@gmail.com
+    phone: 0975 265 171
+    # website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: sharu725
-    gitlab:
+    github: Yucheng0208
     bitbucket:
-    twitter: '@webjeda'
+    facebook: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
