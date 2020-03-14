@@ -12,7 +12,9 @@ sidebar:
     avatar: Chang.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: a97496@gmail.com
+    email: 
+     - private: a97496@gmail.com
+     - school: s619053@st.tsvs.ntpc.edu.tw
     phone: 0975 265 171
     # website: blog.webjeda.com #do not add http://
     github: Yucheng0208
@@ -23,7 +25,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
       - idiom: French
