@@ -8,17 +8,18 @@ sidebar:
 
     # Profile information
     name: 張育丞(Ryan Chang)
-    tagline: Student and Compiler #Edier Compiler
+    tagline: Student #and Appliction Designer #Edier Compiler
     avatar: Chang.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: a97496@gmail.com
-    phone: 0975 265 171
+    student-email: s619053@st.tsvs.ntpc.edu.tw
+    phone: 0975-265-171
     # website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: Yucheng0208
     bitbucket:
-    facebook: '@webjeda'
+    facebook: '@yucheng.0208'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
