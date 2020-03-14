@@ -17,24 +17,24 @@ sidebar:
     phone: 0975 265 171
     # website: blog.webjeda.com #do not add http://
     github: Yucheng0208
-    bitbucket:
+    #bitbucket:
     facebook: '@yucheng.0208'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    languages: #語言能力
       - idiom: Chinese
         level: Native
 
       - idiom: English
         level: #略懂
 
-    interests:
-      - item: Take a picture
+    interests: #興趣
+      - item: Takimg a picture
         link: https://reurl.cc/0oOO7K
 
-      - item: Make a video
+      - item: Makimg a video
         link: https://reurl.cc/arvv29
           
       - item: By bicycle
@@ -47,9 +47,6 @@ sidebar:
         link: https://reurl.cc/R411Kr
         
       - item: #吃美食
-        link: 
-        
-      - item: Sharing my history
         link: 
 
 career-profile:
