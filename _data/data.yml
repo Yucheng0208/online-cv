@@ -162,8 +162,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Industrial wiring-Class C
+        level: 97%
+      
       - name: PowerDirector & Screen Recorder
-        level: 95%
+        level: 93%
         
       - name: PhotoCap & 非常ㄏㄠˇ色
         level: 95%
@@ -171,11 +174,14 @@ skills:
       - name: Arduino
         level: 93%
         
-      - name: Mincrosoft Office
-        level: 80%
+      - name: Industrial wiring-Class B
+        level: 86%
         
+      - name: Mincrosoft Office
+        level: 75%
+      
       - name: Python
-        level: 76%
+        level: 72%
       
       - name: Sony VEGAS Pro
         level: 75%
@@ -195,6 +201,9 @@ skills:
       - name: HTML5
         level: 33%        
 
+      - name: Appinventor
+        level: 30% 
+      
       - name: C
         level: 25%  
 
