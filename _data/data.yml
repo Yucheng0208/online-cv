@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: a97496@gmail.com 
-    email-2: s619053@st.tsvs.ntpc.edu.tw
+    #email-2: s619053@st.tsvs.ntpc.edu.tw
     phone: 0975 265 171
     # website: blog.webjeda.com #do not add http://
     github: Yucheng0208
@@ -27,21 +27,30 @@ sidebar:
       - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: #略懂
 
     interests:
-      - item: Climbing
-        link:
+      - item: Take a picture
+        link: https://reurl.cc/0oOO7K
 
-      - item: Snowboarding
-        link:
+      - item: Make a video
+        link: https://reurl.cc/arvv29
+          
+      - item: By bicycle
+        link: https://reurl.cc/b5Rz6E
+        
+      - item: Travel
+        link: https://reurl.cc/qd8mdp
 
       - item: Cooking
-        link:
+        link: https://reurl.cc/R411Kr
+        
+      - item: #吃美食
+        link: 
+        
+      - item: Sharing my history
+        link: 
 
 career-profile:
     title: Career Profile
