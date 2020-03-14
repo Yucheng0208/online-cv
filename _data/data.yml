@@ -31,10 +31,10 @@ sidebar:
         level: #略懂
 
     interests: #興趣
-      - item: Takimg a picture
+      - item: Take a picture
         link: https://reurl.cc/0oOO7K
 
-      - item: Makimg a video
+      - item: Make a video
         link: https://reurl.cc/arvv29
           
       - item: By bicycle
@@ -63,14 +63,14 @@ education: #教育程度
     - degree: Dept. of Electrical Engineering
       university: New Taipei Municipal Tamsui Commercial Industrial Vocational Senior High School，TSVS
       time: 2017.9 - 2020.6
-      details: 
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      #details: 
+       # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
+          #- Bullet point
+         # - Bullet point
           
 experiences:
     - role: Lead Developer
