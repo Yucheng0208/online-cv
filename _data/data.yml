@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: 張育丞(Ryan Chang)
-    tagline: Student and Edier #compiler
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Student and Compiler #Edier Compiler
+    avatar: Chang.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: a97496@gmail.com
