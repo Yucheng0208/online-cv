@@ -47,7 +47,7 @@ sidebar:
         link: https://reurl.cc/R411Kr
 
 career-profile:
-    title: Career Profile
+    title: Profile of Applicant #個人簡介#Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -58,7 +58,7 @@ career-profile:
       
 education: #教育程度
     - degree: Dept. of Electrical Engineering
-      university: New Taipei Municipal Tamsui Commercial Industrial Vocational Senior High School，TSVS
+      university: New Taipei Municipal Tamsui Commercial Industrial Vocational Senior High School (TSVS)
       time: 2017.9 - 2020.6
       #details: 
        # Describe your study here lorem ipsum dolor sit amet, consectetuer
