@@ -173,18 +173,18 @@ skills:
       
       - name: Arduino
         level: 93%
-        
-      - name: Industrial wiring-Class B & PLC
-        level: 73%
-        
-      - name: Mincrosoft Office
-        level: 72%
-      
-      - name: Python
-        level: 72%
-      
+    
       - name: Sony VEGAS Pro
         level: 75%
+        
+      - name: Industrial wiring-Class B & PLC
+        level: 74%
+        
+      - name: Mincrosoft Office
+        level: 73%
+      
+      - name: Python
+        level: 73%
 
       - name: Fritzing
         level: 65%
@@ -192,17 +192,17 @@ skills:
       - name: Viual Basic.NET
         level: 52%
         
+      - name: C
+        level: 45%
+        
       - name: Rhino & Sketch
-        level: 35%
+        level: 40%
 
       - name: HTML5
-        level: 33%        
+        level: 38%        
 
       - name: Appinventor
-        level: 30% 
-      
-      - name: C
-        level: 27%
+        level: 36% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
