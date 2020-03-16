@@ -47,7 +47,7 @@ sidebar:
         link: https://reurl.cc/R411Kr
 
 career-profile:
-    title: Profile of Applicant #個人簡介#Career Profile
+    title: Profile #個人簡介#Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -174,6 +174,9 @@ skills:
       - name: Arduino
         level: 93%
     
+      - name: Git 
+        level: 85%
+    
       - name: Sony VEGAS Pro
         level: 75%
         
@@ -195,11 +198,11 @@ skills:
       - name: C
         level: 45%
         
-      - name: Rhino & Sketch
+      - name: Rhino & Sketch & 123Design
         level: 40%
 
-      - name: HTML5
-        level: 38%        
+      - name: HTML5 & CSS
+        level: 37%        
 
       - name: Appinventor
         level: 36% 
