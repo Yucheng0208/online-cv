@@ -47,7 +47,7 @@ sidebar:
         link: https://reurl.cc/R411Kr
 
 career-profile:
-    title: Profile #個人簡介#Career Profile
+    title: Profile #個人簡介
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -55,6 +55,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      #
       
 education: #教育程度
     - degree: Dept. of Electrical Engineering
@@ -195,17 +196,18 @@ skills:
       - name: Viual Basic.NET
         level: 52%
         
-      - name: C
-        level: 45%
-        
       - name: Rhino & Sketch & 123Design
         level: 40%
-
+        
+      - name: Appinventor
+        
+        level: 45% 
+      
       - name: HTML5 & CSS
         level: 37%        
+        
+      - name: C
+        level: 35%
 
-      - name: Appinventor
-        level: 36% 
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+  #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
