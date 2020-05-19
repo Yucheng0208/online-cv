@@ -163,22 +163,22 @@ skills:
 
     toolset:
       - name: Industrial wiring-Class C
-        level: 96%
+        level: 98%
       
       - name: PhotoCap & PrintMagic
         level: 95%
         
       - name: PowerDirector & Screen Recorder
-        level: 94%
+        level: 95%
       
       - name: Arduino
-        level: 93%
+        level: 94%
     
       - name: Git 
-        level: 85%
+        level: 88%
     
       - name: Sony VEGAS Pro
-        level: 75%
+        level: 80%
         
       - name: Industrial wiring-Class B & PLC
         level: 74%
