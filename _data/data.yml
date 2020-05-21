@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 張育丞(Ryan Chang)
+    name: 張育丞(Yu-cheng Chang)
     tagline: Student #and Appliction Designer #Edier Compiler
     avatar: Chang.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -55,11 +55,11 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-      #
+      
       
 education: #教育程度
     - degree: Dept. of Electrical Engineering
-      university: New Taipei Municipal Tamsui Commercial Industrial Vocational Senior High School (TSVS)
+      university: New Taipei Municipal Tamsui Vocational Senior High School (TSVS)
       time: 2017.9 - 2020.6
       #details: 
        # Describe your study here lorem ipsum dolor sit amet, consectetuer
