@@ -192,7 +192,10 @@ skills:
       - name: Viual Basic.NET
         level: 52%
         
-      - name: Rhino & Sketch & 123Design
+      - name: ANSI C
+        level: 50%
+    
+    - name: Rhino & Sketch & 123Design
         level: 50%
         
       - name: Appinventor
@@ -201,9 +204,7 @@ skills:
       
       - name: HTML5 & CSS
         level: 40%        
-        
-      - name: C
-        level: 40%
+
 
 #footer: >
   #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
