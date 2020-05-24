@@ -140,7 +140,7 @@ publications:
     title: Projects
     intro: | 
     papers:
-       - title: 電器辨識系統
+      - title: 電器辨識系統
         #link: "#"
         authors: 張育丞, 林晉誠
         #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
@@ -162,7 +162,7 @@ publications:
 
       - title: 基於OpenPose之機具操作於異常姿勢即時偵測
         #link: "#"
-        authors: 吳宗融, 張育丞, 李宇桀
+        authors: 張育丞, 吳宗融, 李宇桀
         #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
      # - title: A syntax directed compiler for Algol 60
