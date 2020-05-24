@@ -163,47 +163,47 @@ skills:
         level: 98%
       
       - name: PhotoCap & PrintMagic
-        level: 95%
+        level: 97%
         
       - name: PowerDirector & Screen Recorder
-        level: 95%
+        level: 96%
       
       - name: Arduino
-        level: 94%
+        level: 95%
     
       - name: Git 
-        level: 88%
+        level: 90%
     
       - name: Sony VEGAS Pro
         level: 80%
+      
+      - name: Mincrosoft Office
+        level: 88%
+      
+      - name: Python
+        level: 88%
         
       - name: Industrial wiring-Class B & PLC
         level: 74%
-        
-      - name: Mincrosoft Office
-        level: 73%
-      
-      - name: Python
-        level: 73%
 
       - name: Fritzing
-        level: 65%
+        level: 70%
         
       - name: Viual Basic.NET
         level: 52%
         
       - name: Rhino & Sketch & 123Design
-        level: 40%
+        level: 50%
         
       - name: Appinventor
         
-        level: 45% 
+        level: 40% 
       
       - name: HTML5 & CSS
-        level: 37%        
+        level: 40%        
         
       - name: C
-        level: 35%
+        level: 40%
 
 #footer: >
   #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
