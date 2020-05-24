@@ -138,6 +138,7 @@ education: #教育程度
     #  bibendum fringilla a eu lectus.
 publications:
     title: Projects
+    intro: | 
     papers:
       - title: 具有區塊鏈之IOT用電系統
         #link: "#"
