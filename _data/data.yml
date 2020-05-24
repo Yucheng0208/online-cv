@@ -169,13 +169,13 @@ skills:
         level: 96%
       
       - name: Arduino
-        level: 95%
+        level: 96%
     
       - name: Git 
-        level: 90%
+        level: 92%
     
       - name: Sony VEGAS Pro
-        level: 80%
+        level: 90%
       
       - name: Mincrosoft Office
         level: 88%
@@ -184,7 +184,7 @@ skills:
         level: 88%
         
       - name: Industrial wiring-Class B & PLC
-        level: 74%
+        level: 80%
 
       - name: Fritzing
         level: 70%
@@ -193,17 +193,17 @@ skills:
         level: 52%
         
       - name: ANSI C
-        level: 50%
+        level: 51%
     
       - name: Rhino & Sketch & 123Design
         level: 50%
         
       - name: Appinventor
         
-        level: 40% 
+        level: 45% 
       
-      - name: HTML5 & CSS
-        level: 40%        
+      - name: HTML & CSS
+        level: 44%        
 
 
 #footer: >
